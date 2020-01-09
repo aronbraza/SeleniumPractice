@@ -6,5 +6,10 @@ public class Sample {
 	{
 		System.out.println("Hello GitHub!");
 	}
+	
+	public void SamplePrint2()
+	{
+		System.out.println("Hello Aron Paul");
+	}
 
 }
