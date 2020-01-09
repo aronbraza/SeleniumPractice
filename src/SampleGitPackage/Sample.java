@@ -11,5 +11,10 @@ public class Sample {
 	{
 		System.out.println("Hello Aron Paul");
 	}
+	
+	public void SamplePrint3()
+	{
+		System.out.println("Hello Aron Paul");
+	}
 
 }

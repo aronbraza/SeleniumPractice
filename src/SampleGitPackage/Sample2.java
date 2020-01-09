@@ -12,4 +12,9 @@ public class Sample2 {
 		System.out.println("Hello WOG");
 	}
 
+	
+	public void SampleMethod3()
+	{
+		System.out.println("Hello WOG");
+	}
 }
