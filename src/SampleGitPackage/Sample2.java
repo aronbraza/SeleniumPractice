@@ -17,4 +17,9 @@ public class Sample2 {
 	{
 		System.out.println("Hello WOG");
 	}
+	
+	public void SampleMethod4()
+	{
+		System.out.println("Hello WOG");
+	}
 }

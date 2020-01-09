@@ -17,4 +17,9 @@ public class Sample {
 		System.out.println("Hello Aron Paul");
 	}
 
+	
+	public void SamplePrint4()
+	{
+		System.out.println("Hello Aron Paul");
+	}
 }
